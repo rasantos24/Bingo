@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1493403666 source:c:\users\rafael\documents\bingo\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<cstdlib>
+
